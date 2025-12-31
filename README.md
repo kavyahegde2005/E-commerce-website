@@ -4,10 +4,10 @@
 This project is a simple e‑commerce web application built with Flask (Python) and MySQL.
 It allows users to register, log in, browse products, add items to their cart/wishlist, and place orders.
 
-**⚙️ Prerequisites**
-Python 3.x
-Flask framework
-MySQL Workbench
+**⚙️ Prerequisites:**
+Python 3.x,
+Flask framework,
+MySQL Workbench,
 Basic knowledge of HTML, CSS, and Python
 
 **📌 Database Setup (MySQL Workbench)**
